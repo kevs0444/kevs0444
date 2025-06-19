@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mar Kevin Alcantara</h1>
-<h3 align="center">Computer Engineering Student, A passionate Full Stack Developer</h3>
+<h3 align="center">Computer Engineering Student, a passionate Full Stack Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://kevs0444.github.io](https://kevs0444.github.io)
 
