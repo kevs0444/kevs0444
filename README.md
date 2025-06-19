@@ -38,7 +38,6 @@ I'm a Computer Engineering student with a strong passion for software engineerin
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kevs0444&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br>
-  <img src="https://streak-stats.demolab.com/?user=kevs0444&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ### 🟩 GitHub Contribution Graph
