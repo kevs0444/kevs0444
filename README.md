@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **markevinalcantara40@gmail.com**
 
-- 📄 Know about my experiences prototype, making software website and desktop
+- 📄 Know about my experiences prototype, making software website and desktop applications
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
