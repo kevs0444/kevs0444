@@ -40,7 +40,3 @@ I'm a Computer Engineering student with a strong passion for software engineerin
   <br>
 </p>
 
-### 🟩 GitHub Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevs0444&theme=tokyo-night" alt="GitHub Contribution Graph" />
-</p>
