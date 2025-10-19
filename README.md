@@ -22,8 +22,8 @@ I enjoy creating innovative and functional systems — from **embedded devices**
 
 ---
 
-### 🛠️ Tech Stack & Tools
-<p align="left">
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<p align="center">
   <!-- Web Development -->
   <a href="https://www.w3schools.com/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a>
