@@ -1,14 +1,15 @@
 <h1 align="center">👋 Hi, I'm Mar Kevin Alcantara</h1>
-<h3 align="center">💻 Computer Engineering Student | Passionate Full Stack Developer</h3>
+<h3 align="center">💻 Computer Engineering Student | Passionate Full Stack Developer | IoT & AI Innovator</h3>
 
 ---
 
 🎯 **About Me**  
-I'm a Computer Engineering student with a strong passion for software engineering, full-stack web development, and building functional prototypes — from desktop to web-based systems.
+I'm a Computer Engineering student passionate about **software engineering, full-stack development, AI integration, and IoT-based prototyping**.  
+I enjoy creating innovative and functional systems — from **embedded devices** to **intelligent web applications** that bridge **hardware and software**.
 
 - 🌐 Portfolio: [kevs0444.github.io](https://kevs0444.github.io)
 - 📫 Email: **markevinalcantara40@gmail.com**
-- 🔧 Experience in: Prototyping, software development (desktop & web), and collaborative projects
+- 🔧 Experienced in: **Prototyping, IoT Systems, Embedded Systems, AI Integration, and Full Stack Web Development**
 
 ---
 
@@ -23,6 +24,7 @@ I'm a Computer Engineering student with a strong passion for software engineerin
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
+  <!-- Web Development -->
   <a href="https://www.w3schools.com/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
@@ -30,11 +32,25 @@ I'm a Computer Engineering student with a strong passion for software engineerin
   <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
   <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
   <a href="https://flask.palletsprojects.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/></a>
+
+  <!-- Databases & Programming -->
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
+
+  <!-- Hardware & IoT -->
+  <a href="https://www.arduino.cc/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/></a>
+  <a href="https://www.raspberrypi.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40"/></a>
 </p>
+
+---
+
+### 🌟 Highlights
+- 🚀 **Full Stack Web Development:** Building responsive and scalable web apps using React, Node.js, PHP, and Flask  
+- 🧠 **Artificial Intelligence & Machine Learning:** Implementing predictive models using TensorFlow and Python  
+- 🌐 **IoT & Embedded Systems:** Integrating Arduino and Raspberry Pi for real-world smart device prototypes  
+- 🧩 **Prototyping & Innovation:** Developing AI-driven health monitoring and automation projects  
 
 ---
 
