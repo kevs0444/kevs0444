@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=180&section=header&text=Mar%20Kevin%20Alcantara&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20IoT%20%26%20AI%20Builder&descAlignY=55" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6C63FF,100:00D4FF&amp;height=180&amp;section=header&amp;text=Mar%20Kevin%20Alcantara&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Computer%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20IoT%20%26%20AI%20Builder&amp;descAlignY=55" alt="header" />
 </div>
 
 <div align="center">
@@ -39,7 +39,7 @@ I enjoy creating projects that are not just functional, but meaningful, from **f
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,flask,python,cs,mysql,tensorflow,arduino,raspberrypi,git,github&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,flask,python,cs,mysql,tensorflow,arduino,raspberrypi,git,github&amp;perline=5" />
 </div>
 
 ## Current Focus
@@ -52,20 +52,20 @@ I enjoy creating projects that are not just functional, but meaningful, from **f
 ## Connect With Me
 
 <div align="center">
-  <a href="https://www.facebook.com/KevinAlcantara04" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <a href="https://www.facebook.com/KevinAlcantara04">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.tiktok.com/@kevscode.tech" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  <a href="https://www.tiktok.com/@kevscode.tech">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white" alt="TikTok" />
   </a>
   <a href="mailto:markevinalcantara40@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" />
   </a>
 </div>
 
 ## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kevs0444&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevs0444&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kevs0444&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevs0444&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages" />
 </div>
