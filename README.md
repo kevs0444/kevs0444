@@ -1,70 +1,71 @@
-<h1 align="center">👋 Hi, I'm Mar Kevin Alcantara</h1>
-<h3 align="center">💻 Computer Engineering Student | Passionate Full Stack Developer | IoT & AI Innovator</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=180&section=header&text=Mar%20Kevin%20Alcantara&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20IoT%20%26%20AI%20Builder&descAlignY=55" alt="header" />
+</div>
 
----
+<div align="center">
 
-🎯 **About Me**  
-I'm a Computer Engineering student passionate about **software engineering, full-stack development, AI integration, and IoT-based prototyping**.  
-I enjoy creating innovative and functional systems — from **embedded devices** to **intelligent web applications** that bridge **hardware and software**.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://kevs0444.github.io)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markevinalcantara40@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/KevinAlcantara04)
+[![TikTok](https://img.shields.io/badge/TikTok-@kevscode.tech-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@kevscode.tech)
 
-- 🌐 Portfolio: [kevs0444.github.io](https://kevs0444.github.io)
-- 📫 Email: **markevinalcantara40@gmail.com**
-- 🔧 Experienced in: **Prototyping, IoT Systems, Embedded Systems, AI Integration, and Full Stack Web Development**
+</div>
 
----
+## About Me
 
-### 🤝 Connect with Me
-<p align="left">
-  <a href="https://www.facebook.com/KevinAlcantara04" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.tiktok.com/@kevscode.tech" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <a href="mailto:markevinalcantara40@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
+I’m **Mar Kevin Alcantara**, a **Computer Engineering student** passionate about building digital experiences that connect **software, hardware, and intelligent systems**.
 
----
+I enjoy creating projects that are not just functional, but meaningful, from **full-stack web applications** to **AI-powered systems** and **IoT prototypes**.
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+- Building with a strong interest in **full-stack development**
+- Exploring **AI integration** for smarter applications
+- Developing **IoT and embedded solutions** for real-world problems
+- Focused on writing clean, practical, and user-centered software
 
-<!-- Web Development -->
-<h3 align="center">🌐 Web Development</h3>
-<p align="center">
-  <a href="https://www.w3schools.com/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/></a>
-</p>
+## What I Do
 
-<!-- Programming & AI -->
-<h3 align="center">💻 Programming, Databases & AI</h3>
-<p align="center">
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></a>
-</p>
+- **Full-Stack Development**  
+  Building responsive and scalable applications using modern frontend and backend technologies.
 
-<!-- IoT & Embedded Systems -->
-<h3 align="center">🤖 IoT, Hardware & Embedded Systems</h3>
-<p align="center">
-  <a href="https://www.arduino.cc/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/></a>
-  <a href="https://www.raspberrypi.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40"/></a>
-</p>
+- **AI and Intelligent Systems**  
+  Creating projects that use machine learning and smart automation to solve practical problems.
 
+- **IoT and Embedded Prototyping**  
+  Connecting hardware and software through Arduino, Raspberry Pi, and embedded workflows.
 
----
+- **System Design and Problem Solving**  
+  Turning ideas into structured, working solutions with a balance of usability and technical depth.
 
-### 🌟 Highlights
-- 🚀 **Full Stack Web Development:** Building responsive and scalable web apps using React, Node.js, PHP, and Flask  
-- 🧠 **Artificial Intelligence & Machine Learning:** Implementing predictive models using TensorFlow and Python  
-- 🌐 **IoT & Embedded Systems:** Integrating Arduino and Raspberry Pi for real-world smart device prototypes  
-- 🧩 **Prototyping & Innovation:** Developing AI-driven health monitoring and automation projects  
+## Tech Stack
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,flask,python,cs,mysql,tensorflow,arduino,raspberrypi,git,github&perline=5" />
+</div>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevs0444&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
-</p>
+## Current Focus
+
+- Building modern **web applications**
+- Improving my **full-stack development workflow**
+- Creating more **AI + IoT integrated projects**
+- Growing as a developer through real-world projects and collaboration
+
+## Connect With Me
+
+<div align="center">
+  <a href="https://www.facebook.com/KevinAlcantara04" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.tiktok.com/@kevscode.tech" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="mailto:markevinalcantara40@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+## GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kevs0444&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevs0444&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
