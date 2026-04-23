@@ -1,6 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6C63FF,100:00D4FF&amp;height=180&amp;section=header&amp;text=Mar%20Kevin%20Alcantara&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Computer%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20IoT%20%26%20AI%20Builder&amp;descAlignY=55" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=220&section=header&text=Mar%20Kevin%20Alcantara&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%20and%20IoT%20Builder&descAlignY=60" alt="Mar Kevin Alcantara header" />
 </div>
+
+<h1 align="center">Mar Kevin Alcantara</h1>
+
+<p align="center">
+  <strong>Computer Engineering Student</strong><br/>
+  Building modern web applications, AI-powered tools, and IoT solutions with a practical engineering mindset.
+</p>
 
 <div align="center">
 
@@ -11,61 +18,47 @@
 
 </div>
 
-## About Me
+## Profile
 
-I’m **Mar Kevin Alcantara**, a **Computer Engineering student** passionate about building digital experiences that connect **software, hardware, and intelligent systems**.
+I build projects that connect software, hardware, and intelligent systems into products that feel useful, polished, and real.
 
-I enjoy creating projects that are not just functional, but meaningful, from **full-stack web applications** to **AI-powered systems** and **IoT prototypes**.
-
-- Building with a strong interest in **full-stack development**
-- Exploring **AI integration** for smarter applications
-- Developing **IoT and embedded solutions** for real-world problems
-- Focused on writing clean, practical, and user-centered software
-
-## What I Do
-
-- **Full-Stack Development**  
-  Building responsive and scalable applications using modern frontend and backend technologies.
-
-- **AI and Intelligent Systems**  
-  Creating projects that use machine learning and smart automation to solve practical problems.
-
-- **IoT and Embedded Prototyping**  
-  Connecting hardware and software through Arduino, Raspberry Pi, and embedded workflows.
-
-- **System Design and Problem Solving**  
-  Turning ideas into structured, working solutions with a balance of usability and technical depth.
+- Full-stack development with a focus on clean UI, solid backend logic, and usability
+- AI integration for smarter workflows, automation, and data-driven features
+- IoT and embedded prototyping using Arduino, Raspberry Pi, and connected systems
+- Strong interest in practical problem solving, system design, and continuous improvement
 
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,flask,python,cs,mysql,tensorflow,arduino,raspberrypi,git,github&amp;perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,flask,python,cs,mysql,tensorflow,arduino,raspberrypi,git,github&perline=5" alt="Tech stack" />
 </div>
 
 ## Current Focus
 
-- Building modern **web applications**
-- Improving my **full-stack development workflow**
-- Creating more **AI + IoT integrated projects**
-- Growing as a developer through real-world projects and collaboration
+- Building scalable web applications with modern frontend and backend tools
+- Creating AI-enhanced features that solve real user problems
+- Developing more end-to-end IoT projects from prototype to working demo
+- Strengthening code quality, architecture, and product thinking
 
-## Connect With Me
-
-<div align="center">
-  <a href="https://www.facebook.com/KevinAlcantara04">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.tiktok.com/@kevscode.tech">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white" alt="TikTok" />
-  </a>
-  <a href="mailto:markevinalcantara40@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" />
-  </a>
-</div>
-
-## GitHub Stats
+## GitHub Snapshot
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kevs0444&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevs0444&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kevs0444&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevs0444&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
+
+## Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kevs0444&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+## Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevs0444&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</div>
+
+<p align="center">
+  Focused on building meaningful software across web, AI, and IoT.
+</p>
