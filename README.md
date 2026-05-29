@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Mar%20Kevin%20Alcantara&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Engineering%20Enthusiast%20%7C%20AI%20%26%20Analytics&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Mar%20Kevin%20Alcantara&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Engineer%20%7C%20Data%20Analyst%20%7C%20AI%20Developer&descAlignY=60" />
 </div>
 
 <h1 align="center">Mar Kevin Alcantara</h1>
 
 <p align="center">
-  <strong>Computer Engineering Student • Data Analytics • ETL Pipelines • Business Intelligence</strong>
+  <strong>Computer Engineering Student • Data Analytics • Data Engineering • AI Solutions</strong>
 </p>
 
 <div align="center">
